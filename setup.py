@@ -11,7 +11,7 @@ setup(name='htpl',
       version=0.1, 
       description="Simple app made of django generic views for using the\
               template features during frontend development process",
-      packages=find_packages()find_packages(),
+      packages=find_packages(),
       include_package_data=True,
       install_requires=[
           'django>=1.9',
