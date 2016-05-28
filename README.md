@@ -1,4 +1,4 @@
-# django-htpl
+# HTPL
 
 Simple app made of django generic views, which make possible to use the Django template features during frontend development process :)
 
@@ -31,5 +31,6 @@ urlpatterns = [
     ...
     url(r'', include('htpl.urls')),
     ]
+```
 
 **Congrats, it's ready!***
