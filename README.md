@@ -19,7 +19,7 @@ After installation, you must include it in your ```settings.py```. You can add i
 INSTALLED_APPS = [
     ...
     # Via config file
-    'simplesite.apps.HtplConfig',
+    'htpl.apps.HtplConfig',
     ...
     # Via appname
     'htpl',
